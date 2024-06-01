@@ -1,0 +1,8 @@
+Package: implot
+Version: 0.16
+Depends: imgui, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 0c7dac052970e3e55d8ba0cf4f4cc76e71bedfb64b015baec352da179314ec26
+Description: Advanced 2D Plotting for Dear ImGui
+Status: install ok installed

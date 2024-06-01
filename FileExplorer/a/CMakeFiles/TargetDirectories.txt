@@ -1,0 +1,3 @@
+/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build/CMakeFiles/ImGuiHelloWorld.dir
+/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build/CMakeFiles/edit_cache.dir
+/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build/CMakeFiles/rebuild_cache.dir

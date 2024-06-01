@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build",
+  "command": "/usr/bin/clang++ -DFMT_HEADER_ONLY=1 -DNOMINMAX -I/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/src -isystem /home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build/vcpkg_installed/x64-linux/include -g -Wall -Wextra -Wpedantic -Wshadow -Wunused -Wformat=2 -Wcast-align -Wconversion -Wnull-dereference -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Weffc++ -std=c++20 -o CMakeFiles/ImGuiHelloWorld.dir/src/main.cpp.o -c /home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/src/main.cpp",
+  "file": "/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/src/main.cpp"
+},
+{
+  "directory": "/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build",
+  "command": "/usr/bin/clang++ -DFMT_HEADER_ONLY=1 -DNOMINMAX -I/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/src -isystem /home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/build/vcpkg_installed/x64-linux/include -g -Wall -Wextra -Wpedantic -Wshadow -Wunused -Wformat=2 -Wcast-align -Wconversion -Wnull-dereference -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Weffc++ -std=c++20 -o CMakeFiles/ImGuiHelloWorld.dir/src/render.cpp.o -c /home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/src/render.cpp",
+  "file": "/home/anuj/optFiles/IMGUI_OWN/IMGUI_Project_Template/FileExplorer/src/render.cpp"
+}
+]
